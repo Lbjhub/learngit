@@ -1,1 +1,2 @@
-hello friend£¡11111 222
+Git is a version control system.
+Git is a free software.
